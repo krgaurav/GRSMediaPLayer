@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GRSPlayer.AboutUs" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAgAADAACAEAAACAAABDAAAAAAAAAAAAAQBAACA=</HashCode>
+      <FileName>AboutUs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRSPlayer.Developers" Collapsed="true">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAKAAAAAQAASAAACCQAAAACAAAAAQAAAAAAA=</HashCode>
+      <FileName>Developers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRSPlayer.GRSForm" Collapsed="true">
+    <Position X="1.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>B4SCo/8gJDwEQJCpcECKxLNWioRUg6k0Qy0TLjQiAEE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRSPlayer.functions" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIgAAABEAABAIAAAAIIAAASgAIIAQAEAAEAEIAI=</HashCode>
+      <FileName>functions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRSPlayer.PlayList" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAQBAAAAACAAABiAIAAAAAlAEAAAAAgCAg=</HashCode>
+      <FileName>PlayList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRSPlayer.Program" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRSPlayer.SplashScreen" Collapsed="true">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACAAAAAAAASAAAACAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>SplashScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRSPlayer.Properties.Resources" Collapsed="true">
+    <Position X="1.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Gb/gnejuOvqNFG+s1f1JehFOQRfikVHN4b+Cx9iHFNs=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRSPlayer.Properties.Settings" Collapsed="true">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

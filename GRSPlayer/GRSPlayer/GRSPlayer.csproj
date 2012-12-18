@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{31E5EAA3-0D36-47F6-94F7-69B715B9E555}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GRSPlayer</RootNamespace>
+    <AssemblyName>GRSPlayer</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.QuartzTypeLib, Version=1.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Sadik\Documents\Downloads\Compressed\DirectShowSource\Interop.QuartzTypeLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutUs.Designer.cs">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Developers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Developers.Designer.cs">
+      <DependentUpon>Developers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlayList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlayList.Designer.cs">
+      <DependentUpon>PlayList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutUs.resx">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Developers.resx">
+      <DependentUpon>Developers.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlayList.resx">
+      <DependentUpon>PlayList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\4-direction.png" />
+    <Content Include="Resources\8-direction.png" />
+    <Content Include="Resources\about.png" />
+    <Content Include="Resources\add-document.png" />
+    <Content Include="Resources\add-favourite.png" />
+    <Content Include="Resources\add.png" />
+    <Content Include="Resources\advanced-search.png" />
+    <Content Include="Resources\alarm.png" />
+    <Content Include="Resources\alert.png" />
+    <Content Include="Resources\arrow-alt-down.png" />
+    <Content Include="Resources\arrow-alt-left.png" />
+    <Content Include="Resources\arrow-alt-right.png" />
+    <Content Include="Resources\arrow-alt-up.png" />
+    <Content Include="Resources\arrow-down.png" />
+    <Content Include="Resources\arrow-left.png" />
+    <Content Include="Resources\arrow-right.png" />
+    <Content Include="Resources\arrow-up.png" />
+    <Content Include="Resources\basket-alt-2.png" />
+    <Content Include="Resources\basket-alt.png" />
+    <Content Include="Resources\basket.png" />
+    <Content Include="Resources\battery-empty.png" />
+    <Content Include="Resources\battery-full.png" />
+    <Content Include="Resources\brush.png" />
+    <Content Include="Resources\button-down.png" />
+    <Content Include="Resources\button-over.png" />
+    <Content Include="Resources\button-up.png" />
+    <Content Include="Resources\calculator.png" />
+    <Content Include="Resources\calendar.png" />
+    <Content Include="Resources\cancel.png" />
+    <Content Include="Resources\check-box.png" />
+    <Content Include="Resources\check.png" />
+    <Content Include="Resources\cinema.png" />
+    <Content Include="Resources\cloud.png" />
+    <Content Include="Resources\copyright.png" />
+    <Content Include="Resources\cosmos.png" />
+    <Content Include="Resources\crop.png" />
+    <None Include="Resources\developer.png" />
+    <Content Include="Resources\disability.png" />
+    <Content Include="Resources\display-mac.png" />
+    <Content Include="Resources\display.png" />
+    <Content Include="Resources\document.png" />
+    <Content Include="Resources\documents.png" />
+    <Content Include="Resources\dont-litter.png" />
+    <Content Include="Resources\download.png" />
+    <Content Include="Resources\facebiblio.png" />
+    <Content Include="Resources\favourite.png" />
+    <Content Include="Resources\first-aid.png" />
+    <Content Include="Resources\font.png" />
+    <Content Include="Resources\fruit-apple-alt.png" />
+    <Content Include="Resources\fruit-apple.png" />
+    <Content Include="Resources\fruit-apricot.png" />
+    <Content Include="Resources\fruit-banana.png" />
+    <Content Include="Resources\fruit-cherry.png" />
+    <Content Include="Resources\fruit-lemon.png" />
+    <Content Include="Resources\fruit-orange.png" />
+    <Content Include="Resources\fruit-pear.png" />
+    <Content Include="Resources\full-screen.png" />
+    <Content Include="Resources\games.png" />
+    <Content Include="Resources\grsIcon.ico" />
+    <Content Include="Resources\grsSplash.png" />
+    <Content Include="Resources\help.png" />
+    <Content Include="Resources\home.png" />
+    <Content Include="Resources\idea.png" />
+    <Content Include="Resources\info.png" />
+    <Content Include="Resources\justice.png" />
+    <Content Include="Resources\layers.png" />
+    <Content Include="Resources\mail.png" />
+    <Content Include="Resources\man.png" />
+    <Content Include="Resources\media-aspect-ratio.png" />
+    <Content Include="Resources\media-backward.png" />
+    <Content Include="Resources\media-BetaMax.png" />
+    <Content Include="Resources\media-blu-ray.png" />
+    <Content Include="Resources\media-brightness.png" />
+    <Content Include="Resources\media-cassette-tape.png" />
+    <Content Include="Resources\media-cd-card.png" />
+    <Content Include="Resources\media-cd.png" />
+    <Content Include="Resources\media-contrast.png" />
+    <Content Include="Resources\media-dat.png" />
+    <Content Include="Resources\media-disk-3-5.png" />
+    <Content Include="Resources\media-disk-3.png" />
+    <Content Include="Resources\media-disk-5-1-4.png" />
+    <Content Include="Resources\media-disk-8.png" />
+    <Content Include="Resources\media-drum-kit.png" />
+    <Content Include="Resources\media-dvd.png" />
+    <Content Include="Resources\media-eject.png" />
+    <Content Include="Resources\media-equalizer.png" />
+    <Content Include="Resources\media-fast-backward.png" />
+    <Content Include="Resources\media-fast-forward.png" />
+    <Content Include="Resources\media-headphones.png" />
+    <Content Include="Resources\media-knob-decrease.png" />
+    <Content Include="Resources\media-knob-increase.png" />
+    <Content Include="Resources\media-knob-volume.png" />
+    <Content Include="Resources\media-knob.png" />
+    <Content Include="Resources\media-LaserDisc.png" />
+    <Content Include="Resources\media-levels-decrease.png" />
+    <Content Include="Resources\media-levels-increase.png" />
+    <Content Include="Resources\media-levels.png" />
+    <Content Include="Resources\media-maraques.png" />
+    <Content Include="Resources\media-microphone-alt.png" />
+    <Content Include="Resources\media-microphone-vol-down.png" />
+    <Content Include="Resources\media-microphone-vol-up.png" />
+    <Content Include="Resources\media-microphone.png" />
+    <Content Include="Resources\media-minidisc.png" />
+    <Content Include="Resources\media-next.png" />
+    <Content Include="Resources\media-pause.png" />
+    <Content Include="Resources\media-play-pause-resume.png" />
+    <Content Include="Resources\media-play.png" />
+    <None Include="Resources\media-play1.png" />
+    <Content Include="Resources\media-previous.png" />
+    <Content Include="Resources\media-record.png" />
+    <Content Include="Resources\media-repeat-alt.png" />
+    <Content Include="Resources\media-repeat.png" />
+    <Content Include="Resources\media-shuffle.png" />
+    <Content Include="Resources\media-speaker.png" />
+    <Content Include="Resources\media-stop.png" />
+    <Content Include="Resources\media-synth.png" />
+    <Content Include="Resources\media-time-pos-back.png" />
+    <Content Include="Resources\media-time-pos-forw.png" />
+    <Content Include="Resources\media-time-pos-set.png" />
+    <Content Include="Resources\media-time-position.png" />
+    <Content Include="Resources\media-vhs.png" />
+    <Content Include="Resources\media-video.png" />
+    <Content Include="Resources\media-vinyl-33-1-3.png" />
+    <Content Include="Resources\media-vinyl-45.png" />
+    <Content Include="Resources\media-vinyl-78.png" />
+    <Content Include="Resources\media-volume-0.png" />
+    <Content Include="Resources\media-volume-1.png" />
+    <Content Include="Resources\media-volume-2.png" />
+    <Content Include="Resources\media-volume-3.png" />
+    <Content Include="Resources\media-volume-down.png" />
+    <Content Include="Resources\media-volume-up.png" />
+    <Content Include="Resources\no.png" />
+    <Content Include="Resources\open-in-new-window.png" />
+    <None Include="Resources\open.png" />
+    <None Include="Resources\open_recent.png" />
+    <Content Include="Resources\padlock-closed.png" />
+    <Content Include="Resources\padlock-open.png" />
+    <Content Include="Resources\paint.png" />
+    <Content Include="Resources\pencil.png" />
+    <Content Include="Resources\photo.png" />
+    <Content Include="Resources\picture.png" />
+    <None Include="Resources\playlist.png" />
+    <Content Include="Resources\pollution.png" />
+    <None Include="Resources\quit1.png" />
+    <None Include="Resources\quit2.png" />
+    <None Include="Resources\quit3.png" />
+    <Content Include="Resources\recycle-alt-1.png" />
+    <Content Include="Resources\recycle-alt-2.png" />
+    <Content Include="Resources\recycle-alt-3.png" />
+    <Content Include="Resources\recycle.png" />
+    <Content Include="Resources\redo.png" />
+    <Content Include="Resources\remove.png" />
+    <Content Include="Resources\rss.png" />
+    <Content Include="Resources\save.png" />
+    <None Include="Resources\save_to_playlist.png" />
+    <Content Include="Resources\science-alt.png" />
+    <Content Include="Resources\science.png" />
+    <Content Include="Resources\search.png" />
+    <Content Include="Resources\sexy-omega.png" />
+    <Content Include="Resources\star.png" />
+    <Content Include="Resources\stop-alt.png" />
+    <Content Include="Resources\stop.png" />
+    <Content Include="Resources\tag.png" />
+    <Content Include="Resources\telephone.png" />
+    <Content Include="Resources\tools.png" />
+    <Content Include="Resources\trademark.png" />
+    <Content Include="Resources\twit.png" />
+    <Content Include="Resources\uc-level-1-black-subfunction.png" />
+    <Content Include="Resources\uc-level-2-subfunction.png" />
+    <Content Include="Resources\uc-level-3-user-goal.png" />
+    <Content Include="Resources\uc-level-4-summary.png" />
+    <Content Include="Resources\uc-level-5-very-summary.png" />
+    <Content Include="Resources\uc-scope-business-use-case.png" />
+    <Content Include="Resources\uc-scope-component-use-case.png" />
+    <Content Include="Resources\uc-scope-system-use-case.png" />
+    <Content Include="Resources\umbrella.png" />
+    <Content Include="Resources\undo-search.png" />
+    <Content Include="Resources\undo.png" />
+    <Content Include="Resources\watch-alt.png" />
+    <Content Include="Resources\watch.png" />
+    <Content Include="Resources\woman.png" />
+    <Content Include="Resources\zoom-in.png" />
+    <Content Include="Resources\zoom-out.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

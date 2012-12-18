@@ -1,0 +1,74 @@
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.GRSForm.resources
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.SplashScreen.resources
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.csproj.GenerateResource.Cache
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\bin\Debug\GRSPlayer.exe
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\bin\Debug\GRSPlayer.pdb
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.Properties.Resources.resources
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.exe
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.pdb
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.AboutUs.resources
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\bin\Debug\Interop.QuartzTypeLib.dll
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.exe
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\bin\Debug\GRSPlayer.exe
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\bin\Debug\GRSPlayer.pdb
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\bin\Debug\Interop.QuartzTypeLib.dll
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.AboutUs.resources
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.GRSForm.resources
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.Properties.Resources.resources
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.SplashScreen.resources
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.csproj.GenerateResource.Cache
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.pdb
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.PlayList.resources
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.Developers.resources
+C:\Users\gaurav\Downloads\GRSPlayer (1)\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.exe
+C:\Users\gaurav\Downloads\GRSPlayer (1)\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.pdb
+C:\Users\gaurav\Downloads\GRSPlayer (1)\GRSPlayer\GRSPlayer\GRSPlayer\bin\Debug\GRSPlayer.exe
+C:\Users\gaurav\Downloads\GRSPlayer (1)\GRSPlayer\GRSPlayer\GRSPlayer\bin\Debug\GRSPlayer.pdb
+C:\Users\gaurav\Downloads\GRSPlayer (1)\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gaurav\Downloads\GRSPlayer (1)\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.AboutUs.resources
+C:\Users\gaurav\Downloads\GRSPlayer (1)\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.Developers.resources
+C:\Users\gaurav\Downloads\GRSPlayer (1)\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.GRSForm.resources
+C:\Users\gaurav\Downloads\GRSPlayer (1)\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.PlayList.resources
+C:\Users\gaurav\Downloads\GRSPlayer (1)\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.Properties.Resources.resources
+C:\Users\gaurav\Downloads\GRSPlayer (1)\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.SplashScreen.resources
+C:\Users\gaurav\Downloads\GRSPlayer (1)\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.csproj.GenerateResource.Cache
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.exe
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.pdb
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\bin\Debug\GRSPlayer.exe
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\bin\Debug\GRSPlayer.pdb
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.AboutUs.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.Developers.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.GRSForm.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.PlayList.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.Properties.Resources.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.SplashScreen.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.csproj.GenerateResource.Cache
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\Updated_GRSForm_Code_2008\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.exe
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\Updated_GRSForm_Code_2008\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.pdb
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\Updated_GRSForm_Code_2008\GRSPlayer\GRSPlayer\bin\Debug\GRSPlayer.exe
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\Updated_GRSForm_Code_2008\GRSPlayer\GRSPlayer\bin\Debug\GRSPlayer.pdb
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\Updated_GRSForm_Code_2008\GRSPlayer\GRSPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\Updated_GRSForm_Code_2008\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.AboutUs.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\Updated_GRSForm_Code_2008\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.Developers.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\Updated_GRSForm_Code_2008\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.GRSForm.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\Updated_GRSForm_Code_2008\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.PlayList.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\Updated_GRSForm_Code_2008\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.Properties.Resources.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\Updated_GRSForm_Code_2008\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.SplashScreen.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\Updated_GRSForm_Code_2008\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.csproj.GenerateResource.Cache
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.Developers.resources
+E:\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.PlayList.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\bin\Debug\GRSPlayer.exe
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\bin\Debug\GRSPlayer.pdb
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.AboutUs.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.Developers.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.GRSForm.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.PlayList.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.Properties.Resources.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.SplashScreen.resources
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.csproj.GenerateResource.Cache
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.exe
+C:\Users\gaurav\Documents\Visual Studio 2008\Projects\GRSPlayer\GRSPlayer\obj\Debug\GRSPlayer.pdb
